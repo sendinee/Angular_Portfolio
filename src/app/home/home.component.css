@@ -1,0 +1,25 @@
+#home {
+    width: 100%;
+    height: 100vh;
+    background: top center;
+    background-size: cover;
+}
+
+#home p{
+    color: #151515;
+    margin-bottom: 50px;
+    font-size: 26px;
+    font-family: "Poppins", sans-serif;
+    display: block;
+}
+
+h1{
+    color: #000000;
+}
+
+#home p span {
+    color: #000000;
+    padding-bottom: 4px;
+    letter-spacing: 1px;
+    border-bottom: 3px solid #faad77;
+}
